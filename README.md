@@ -7,17 +7,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Table of contents
 
 - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [What I learned](#what-i-learned)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/janellekiker/frontend-mentor-product-preview-card-component)
+- Solution URL: [](https://github.com/janellekiker/frontend-mentor-product-preview-card-component)
 - Live Site URL: [](https://janellekiker.github.io/frontend-mentor-product-preview-card-component/)
 
 ### What I learned
